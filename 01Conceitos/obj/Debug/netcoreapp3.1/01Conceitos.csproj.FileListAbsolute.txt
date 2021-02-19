@@ -1,0 +1,13 @@
+C:\Users\Thaís\Documents\POOC#\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.exe
+C:\Users\Thaís\Documents\POOC#\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.deps.json
+C:\Users\Thaís\Documents\POOC#\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.runtimeconfig.json
+C:\Users\Thaís\Documents\POOC#\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.runtimeconfig.dev.json
+C:\Users\Thaís\Documents\POOC#\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.dll
+C:\Users\Thaís\Documents\POOC#\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.pdb
+C:\Users\Thaís\Documents\POOC#\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.csprojAssemblyReference.cache
+C:\Users\Thaís\Documents\POOC#\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\Thaís\Documents\POOC#\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.AssemblyInfo.cs
+C:\Users\Thaís\Documents\POOC#\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Documents\POOC#\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.dll
+C:\Users\Thaís\Documents\POOC#\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.pdb
+C:\Users\Thaís\Documents\POOC#\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.genruntimeconfig.cache

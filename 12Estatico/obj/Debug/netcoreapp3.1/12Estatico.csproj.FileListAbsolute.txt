@@ -1,0 +1,13 @@
+C:\Users\Thaís\Documents\POOC#\12Estatico\bin\Debug\netcoreapp3.1\12Estatico.exe
+C:\Users\Thaís\Documents\POOC#\12Estatico\bin\Debug\netcoreapp3.1\12Estatico.deps.json
+C:\Users\Thaís\Documents\POOC#\12Estatico\bin\Debug\netcoreapp3.1\12Estatico.runtimeconfig.json
+C:\Users\Thaís\Documents\POOC#\12Estatico\bin\Debug\netcoreapp3.1\12Estatico.runtimeconfig.dev.json
+C:\Users\Thaís\Documents\POOC#\12Estatico\bin\Debug\netcoreapp3.1\12Estatico.dll
+C:\Users\Thaís\Documents\POOC#\12Estatico\bin\Debug\netcoreapp3.1\12Estatico.pdb
+C:\Users\Thaís\Documents\POOC#\12Estatico\obj\Debug\netcoreapp3.1\12Estatico.csprojAssemblyReference.cache
+C:\Users\Thaís\Documents\POOC#\12Estatico\obj\Debug\netcoreapp3.1\12Estatico.AssemblyInfoInputs.cache
+C:\Users\Thaís\Documents\POOC#\12Estatico\obj\Debug\netcoreapp3.1\12Estatico.AssemblyInfo.cs
+C:\Users\Thaís\Documents\POOC#\12Estatico\obj\Debug\netcoreapp3.1\12Estatico.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Documents\POOC#\12Estatico\obj\Debug\netcoreapp3.1\12Estatico.dll
+C:\Users\Thaís\Documents\POOC#\12Estatico\obj\Debug\netcoreapp3.1\12Estatico.pdb
+C:\Users\Thaís\Documents\POOC#\12Estatico\obj\Debug\netcoreapp3.1\12Estatico.genruntimeconfig.cache

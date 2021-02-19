@@ -1,0 +1,13 @@
+C:\Users\Thaís\Documents\POOC#\10Herança\obj\Debug\netcoreapp3.1\10Herança.csprojAssemblyReference.cache
+C:\Users\Thaís\Documents\POOC#\10Herança\obj\Debug\netcoreapp3.1\10Herança.AssemblyInfoInputs.cache
+C:\Users\Thaís\Documents\POOC#\10Herança\obj\Debug\netcoreapp3.1\10Herança.AssemblyInfo.cs
+C:\Users\Thaís\Documents\POOC#\10Herança\obj\Debug\netcoreapp3.1\10Herança.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Documents\POOC#\10Herança\bin\Debug\netcoreapp3.1\10Herança.exe
+C:\Users\Thaís\Documents\POOC#\10Herança\bin\Debug\netcoreapp3.1\10Herança.deps.json
+C:\Users\Thaís\Documents\POOC#\10Herança\bin\Debug\netcoreapp3.1\10Herança.runtimeconfig.json
+C:\Users\Thaís\Documents\POOC#\10Herança\bin\Debug\netcoreapp3.1\10Herança.runtimeconfig.dev.json
+C:\Users\Thaís\Documents\POOC#\10Herança\bin\Debug\netcoreapp3.1\10Herança.dll
+C:\Users\Thaís\Documents\POOC#\10Herança\bin\Debug\netcoreapp3.1\10Herança.pdb
+C:\Users\Thaís\Documents\POOC#\10Herança\obj\Debug\netcoreapp3.1\10Herança.dll
+C:\Users\Thaís\Documents\POOC#\10Herança\obj\Debug\netcoreapp3.1\10Herança.pdb
+C:\Users\Thaís\Documents\POOC#\10Herança\obj\Debug\netcoreapp3.1\10Herança.genruntimeconfig.cache

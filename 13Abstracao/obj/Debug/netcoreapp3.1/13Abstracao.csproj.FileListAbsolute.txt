@@ -1,0 +1,13 @@
+C:\Users\Thaís\Documents\POOC#\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.exe
+C:\Users\Thaís\Documents\POOC#\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.deps.json
+C:\Users\Thaís\Documents\POOC#\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.runtimeconfig.json
+C:\Users\Thaís\Documents\POOC#\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.runtimeconfig.dev.json
+C:\Users\Thaís\Documents\POOC#\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.dll
+C:\Users\Thaís\Documents\POOC#\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.pdb
+C:\Users\Thaís\Documents\POOC#\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.csprojAssemblyReference.cache
+C:\Users\Thaís\Documents\POOC#\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.AssemblyInfoInputs.cache
+C:\Users\Thaís\Documents\POOC#\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.AssemblyInfo.cs
+C:\Users\Thaís\Documents\POOC#\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Documents\POOC#\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.dll
+C:\Users\Thaís\Documents\POOC#\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.pdb
+C:\Users\Thaís\Documents\POOC#\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.genruntimeconfig.cache

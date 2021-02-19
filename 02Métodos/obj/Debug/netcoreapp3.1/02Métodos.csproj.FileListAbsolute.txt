@@ -1,0 +1,13 @@
+C:\Users\Thaís\Documents\POOC#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.exe
+C:\Users\Thaís\Documents\POOC#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.deps.json
+C:\Users\Thaís\Documents\POOC#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.runtimeconfig.json
+C:\Users\Thaís\Documents\POOC#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.runtimeconfig.dev.json
+C:\Users\Thaís\Documents\POOC#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.dll
+C:\Users\Thaís\Documents\POOC#\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.pdb
+C:\Users\Thaís\Documents\POOC#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.csprojAssemblyReference.cache
+C:\Users\Thaís\Documents\POOC#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.AssemblyInfoInputs.cache
+C:\Users\Thaís\Documents\POOC#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.AssemblyInfo.cs
+C:\Users\Thaís\Documents\POOC#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Documents\POOC#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.dll
+C:\Users\Thaís\Documents\POOC#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.pdb
+C:\Users\Thaís\Documents\POOC#\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.genruntimeconfig.cache

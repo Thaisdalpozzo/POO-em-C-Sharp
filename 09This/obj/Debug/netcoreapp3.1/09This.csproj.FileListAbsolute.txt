@@ -1,0 +1,13 @@
+C:\Users\Thaís\Documents\POOC#\09This\bin\Debug\netcoreapp3.1\09This.exe
+C:\Users\Thaís\Documents\POOC#\09This\bin\Debug\netcoreapp3.1\09This.deps.json
+C:\Users\Thaís\Documents\POOC#\09This\bin\Debug\netcoreapp3.1\09This.runtimeconfig.json
+C:\Users\Thaís\Documents\POOC#\09This\bin\Debug\netcoreapp3.1\09This.runtimeconfig.dev.json
+C:\Users\Thaís\Documents\POOC#\09This\bin\Debug\netcoreapp3.1\09This.dll
+C:\Users\Thaís\Documents\POOC#\09This\bin\Debug\netcoreapp3.1\09This.pdb
+C:\Users\Thaís\Documents\POOC#\09This\obj\Debug\netcoreapp3.1\09This.csprojAssemblyReference.cache
+C:\Users\Thaís\Documents\POOC#\09This\obj\Debug\netcoreapp3.1\09This.AssemblyInfoInputs.cache
+C:\Users\Thaís\Documents\POOC#\09This\obj\Debug\netcoreapp3.1\09This.AssemblyInfo.cs
+C:\Users\Thaís\Documents\POOC#\09This\obj\Debug\netcoreapp3.1\09This.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Documents\POOC#\09This\obj\Debug\netcoreapp3.1\09This.dll
+C:\Users\Thaís\Documents\POOC#\09This\obj\Debug\netcoreapp3.1\09This.pdb
+C:\Users\Thaís\Documents\POOC#\09This\obj\Debug\netcoreapp3.1\09This.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Thaís\Documents\POOC#\14Interface\obj\Debug\netcoreapp3.1\14Interface.csprojAssemblyReference.cache
+C:\Users\Thaís\Documents\POOC#\14Interface\obj\Debug\netcoreapp3.1\14Interface.AssemblyInfoInputs.cache
+C:\Users\Thaís\Documents\POOC#\14Interface\obj\Debug\netcoreapp3.1\14Interface.AssemblyInfo.cs
+C:\Users\Thaís\Documents\POOC#\14Interface\obj\Debug\netcoreapp3.1\14Interface.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Documents\POOC#\14Interface\bin\Debug\netcoreapp3.1\14Interface.exe
+C:\Users\Thaís\Documents\POOC#\14Interface\bin\Debug\netcoreapp3.1\14Interface.deps.json
+C:\Users\Thaís\Documents\POOC#\14Interface\bin\Debug\netcoreapp3.1\14Interface.runtimeconfig.json
+C:\Users\Thaís\Documents\POOC#\14Interface\bin\Debug\netcoreapp3.1\14Interface.runtimeconfig.dev.json
+C:\Users\Thaís\Documents\POOC#\14Interface\bin\Debug\netcoreapp3.1\14Interface.dll
+C:\Users\Thaís\Documents\POOC#\14Interface\bin\Debug\netcoreapp3.1\14Interface.pdb
+C:\Users\Thaís\Documents\POOC#\14Interface\obj\Debug\netcoreapp3.1\14Interface.dll
+C:\Users\Thaís\Documents\POOC#\14Interface\obj\Debug\netcoreapp3.1\14Interface.pdb
+C:\Users\Thaís\Documents\POOC#\14Interface\obj\Debug\netcoreapp3.1\14Interface.genruntimeconfig.cache

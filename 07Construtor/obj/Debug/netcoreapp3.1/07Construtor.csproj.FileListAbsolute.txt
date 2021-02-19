@@ -1,0 +1,13 @@
+C:\Users\Thaís\Documents\POOC#\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.exe
+C:\Users\Thaís\Documents\POOC#\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.deps.json
+C:\Users\Thaís\Documents\POOC#\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.runtimeconfig.json
+C:\Users\Thaís\Documents\POOC#\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.runtimeconfig.dev.json
+C:\Users\Thaís\Documents\POOC#\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.dll
+C:\Users\Thaís\Documents\POOC#\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.pdb
+C:\Users\Thaís\Documents\POOC#\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.csprojAssemblyReference.cache
+C:\Users\Thaís\Documents\POOC#\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.AssemblyInfoInputs.cache
+C:\Users\Thaís\Documents\POOC#\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.AssemblyInfo.cs
+C:\Users\Thaís\Documents\POOC#\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Documents\POOC#\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.dll
+C:\Users\Thaís\Documents\POOC#\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.pdb
+C:\Users\Thaís\Documents\POOC#\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.genruntimeconfig.cache

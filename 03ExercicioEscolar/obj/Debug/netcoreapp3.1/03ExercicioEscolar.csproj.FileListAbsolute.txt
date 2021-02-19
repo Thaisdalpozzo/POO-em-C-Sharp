@@ -1,0 +1,13 @@
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.exe
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.deps.json
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.runtimeconfig.json
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.runtimeconfig.dev.json
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.dll
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.pdb
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.csprojAssemblyReference.cache
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.AssemblyInfo.cs
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.dll
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.pdb
+C:\Users\Thaís\Documents\POOC#\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.genruntimeconfig.cache

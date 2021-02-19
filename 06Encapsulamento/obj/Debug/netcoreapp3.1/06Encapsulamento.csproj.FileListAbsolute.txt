@@ -1,0 +1,13 @@
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.AssemblyInfo.cs
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.exe
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.deps.json
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.runtimeconfig.json
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.runtimeconfig.dev.json
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.dll
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.pdb
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.dll
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.pdb
+C:\Users\Thaís\Documents\POOC#\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.genruntimeconfig.cache
